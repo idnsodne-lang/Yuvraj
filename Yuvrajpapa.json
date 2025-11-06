@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "latestVersionCode": 5,
   "latestVersionName": "1.5",
   "title": "MOD MENU EXPIRE",
-  "message": "CLICK ON DOWNLOAD TO GET UPDATED VERSION. ",
-  "UpdateButtonText": "DOWNLOAD",
+  "message": "CLICK ON UPDATE NOW TO GET UPDATED VERSION. ",
+  "UpdateButtonText": "UPDATE NOW",
   "UpdateButtonUrl": "https://t.me/+bRUwHN_VRWQ4OTll"
 }
